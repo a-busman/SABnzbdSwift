@@ -378,7 +378,7 @@ public class Pushbullet: Codable {
     public var pushbullet_prio_failed:      Int64?
     public var pushbullet_emergency_expire: Int64?
     public var pushbullet_emergency_retry:  Int64?
-    public var pushbullet_apikey:          String?
+    public var pushbullet_apikey:           String?
     public var pushbullet_device:           String?
     
     public init() {}
